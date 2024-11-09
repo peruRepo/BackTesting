@@ -7,12 +7,7 @@ This repository contains several Python scripts that use the Alpaca API for back
 - [Overview](#overview)
 - [Requirements](#requirements)
 - [Installation](#installation)
-- [Usage](#usage)
-  - [Fetching Historical Data](#fetching-historical-data)
-  - [Strategies](#strategies)
-- [Directory Structure](#directory-structure)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Overview
 
@@ -54,4 +49,7 @@ git clone https://github.com/yourusername/your-repo-name.git
 You can the free account for Paper Trading from Alpaca 
 Refer https://docs.alpaca.markets/docs/paper-trading
 
-
+### Execute the Script 
+  Example
+ ```python backtesting.py ```
+   
