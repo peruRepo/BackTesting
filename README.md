@@ -27,8 +27,10 @@ The main objectives of this repository are:
    - `pandas`
    - `matplotlib`
    - `numpy`
+4. Setup Environment variables
+   APCA_API_KEY_ID
+   APCA_API_SECRET_KEY
 
-   You can install the required packages with:
 
    ```bash
    pip install alpaca-trade-api pandas matplotlib numpy
