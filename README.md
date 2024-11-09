@@ -21,7 +21,7 @@ The main objectives of this repository are:
 ## Requirements
 
 1. **Python 3.8+**
-2. **Alpaca API Key**: You’ll need an Alpaca account and API key to fetch data. [Sign up here](https://alpaca.markets/) if you don't have one.
+2. **Alpaca API Key**: You’ll need an Free Alpaca Paper Trading account and API key to fetch data. [Sign up here](https://docs.alpaca.markets/docs/paper-trading) if you don't have one.
 3. **Python Packages**:
    - `alpaca-trade-api`
    - `pandas`
